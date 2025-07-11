@@ -24,10 +24,11 @@ I love transforming complex datasets into clear narratives that not only make se
 
 ## 🧠 What I Bring
 
-- 🎓 **Industrial Mathematics & Statistics** background from JKUAT  
-- 🔍 Experience as a **Helpdesk Analyst & Project Representative**  
+-  Capability of transforming data into actionable insights.
+- Expe rience as a **Helpdesk Analyst & Project Lead **  
 - 📈 Proven track record of using data to reduce ticket resolution time by 15%  
 - 📊 Created dashboards for **performance tracking**, **forecasting**, and **decision support**
+- **Industrial Mathematics & Statistics** background from JKUAT
 
 ---
 
@@ -39,6 +40,7 @@ I love transforming complex datasets into clear narratives that not only make se
 - **Excel**: PivotTables, Power Query, Automation
 - **Data Tasks**: Cleaning | Visualization | Forecasting | Modeling | Reporting
 - **Business Skills**: Stakeholder Engagement | SLA Monitoring | Insight Delivery
+- **GIS** Analysis
 
 ---
 
