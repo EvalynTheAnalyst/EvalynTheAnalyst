@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there! I'm Evalyn Njagi</h1>
 
 <p align="center">
-  🎯 <b>Data Analyst, Data Engineer & Data Scientist</b> | 📊 <b>Turning Data into Actionable Stories</b> | 🌍 Nairobi, Kenya
+   <b>Data Engineer Analyst </b> | 📊 <b>Turning Data into Actionable Stories</b> | Nairobi, Kenya
 </p>
 
 <p align="center">
@@ -13,26 +13,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a **Data Analyst and Data Scientist** with a passion for turning raw data into meaningful insights that **drive decisions and action**.  
+I am a **Data Engineer Analyst** with a passion for turning raw data into meaningful insights that **drive decisions and action**.  
 My expertise spans **data modeling**, **forecasting**, and **data visualization** using tools like **Power BI**, **SQL**, **Excel**, and **Python (Pandas, Matplotlib, Machine Learning)**.
 
 I love transforming complex datasets into clear narratives that not only make sense — but **make impact**.
 
 ---
 
-## 🧠 What I Bring
+## What I Bring
 
 -  Capability of transforming data into actionable insights.
 - Expe rience as a **Helpdesk Analyst & Project Lead **  
-- 📈 Proven track record of using data to reduce ticket resolution time by 15%  
-- 📊 Created dashboards for **performance tracking**, **forecasting**, and **decision support**
+- Proven track record of using data to reduce ticket resolution time by 15%  
+- Created dashboards for **performance tracking**, **forecasting**, and **decision support**
 - **Industrial Mathematics & Statistics** background from JKUAT
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - **Power BI**: DAX, Power Query, Custom Dashboards
 - **Python**: Pandas, NumPy, Matplotlib, Scikit-learn (ML)
@@ -44,12 +44,12 @@ I love transforming complex datasets into clear narratives that not only make se
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
-### 📦 ZuriMart Sales & Inventory Dashboard
-🛠 **Tools**: Power BI, Excel  
-📊 **Goal**: Track stock movement, optimize supplier performance  
-✅ **Outcome**:
+### ZuriMart Sales & Inventory Dashboard
+ **Tools**: Power BI, Excel  
+**Goal**: Track stock movement, optimize supplier performance  
+**Outcome**:
 - Identified a -2.38% sales decline
 - Flagged inventory turnover issues
 - Guided reordering and marketing strategies  
@@ -57,7 +57,7 @@ I love transforming complex datasets into clear narratives that not only make se
 
 ---
 
-## 🎓 Education
+## Education
 
 - 🎓 **Tech-Up Africa** – *Data Analysis*  
   *(June – Dec 2024)*  
@@ -65,17 +65,17 @@ I love transforming complex datasets into clear narratives that not only make se
 
 ---
 
-## ☕ Let’s Connect!
+##  Let’s Connect!
 
 Are you looking for someone who can:
-- 📊 Build **dashboards** that tell real stories?
-- 🔍 Find **patterns** that boost performance?
-- 🤝 Collaborate on **data projects** that matter?
+- Build **dashboards** that tell real stories?
+-  Find **patterns** that boost performance?
+-  Collaborate on **data projects** that matter?
 
-📬 Let’s connect and talk data!
+ Let’s connect and talk data!
 
-📧 [evalynnjagi02@gmail.com](mailto:evalynnjagi02@gmail.com)  
-🔗 [linkedin.com/in/evalyn-njagi](https://www.linkedin.com/in/evalyn-njagi)
+[evalynnjagi02@gmail.com](mailto:evalynnjagi02@gmail.com)  
+[linkedin.com/in/evalyn-njagi](https://www.linkedin.com/in/evalyn-njagi)
 
 ---
 
