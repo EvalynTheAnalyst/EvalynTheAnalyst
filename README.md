@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there! I'm Evalyn Njagi</h1>
 
 <p align="center">
-  🎯 <b>Data Analyst & Data Scientist</b> | 📊 <b>Turning Data into Actionable Stories</b> | 🌍 Nairobi, Kenya
+  🎯 <b>Data Analyst, Data Engineer & Data Scientist</b> | 📊 <b>Turning Data into Actionable Stories</b> | 🌍 Nairobi, Kenya
 </p>
 
 <p align="center">
