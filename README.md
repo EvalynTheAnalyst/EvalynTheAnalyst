@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there! I'm Evalyn Njagi</h1>
 
 <p align="center">
-   <b>Data Engineer Analyst </b> | 📊 <b>Turning Data into Actionable Stories</b> | Nairobi, Kenya
+   <b>Data Analyst </b> | 📊 <b>Turning Data into Actionable Stories</b> | Nairobi, Kenya
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@
 
 ## About Me
 
-I am a **Data Engineer Analyst** with a passion for turning raw data into meaningful insights that **drive decisions and action**.  
+I am a **Data Analyst** with a passion for turning raw data into meaningful insights that **drive decisions and action**.  
 My expertise spans **data modeling**, **forecasting**, and **data visualization** using tools like **Power BI**, **SQL**, **Excel**, and **Python (Pandas, Matplotlib, Machine Learning)**.
 
-I love transforming complex datasets into clear narratives that not only make sense — but **make impact**.
+I love transforming complex datasets into clear narratives that not only make sense but **make impact**.
 
 ---
 
 ## What I Bring
 
 -  Capability of transforming data into actionable insights.
-- Expe rience as a **Helpdesk Analyst & Project Lead **  
+- Experience as a **Helpdesk Analyst & Project Lead**  
 - Proven track record of using data to reduce ticket resolution time by 15%  
 - Created dashboards for **performance tracking**, **forecasting**, and **decision support**
 - **Industrial Mathematics & Statistics** background from JKUAT
