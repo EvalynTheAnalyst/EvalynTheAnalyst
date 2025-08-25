@@ -25,7 +25,6 @@ I love transforming complex datasets into clear narratives that not only make se
 ## What I Bring
 
 -  Capability of transforming data into actionable insights.
-- Experience as a **Helpdesk Analyst & Project Lead**  
 - Proven track record of using data to reduce ticket resolution time by 15%  
 - Created dashboards for **performance tracking**, **forecasting**, and **decision support**
 - **Industrial Mathematics & Statistics** background from JKUAT
