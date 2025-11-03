@@ -15,7 +15,7 @@
 
 ## About Me
 
-I am a **Data Analyst** with a passion for turning raw data into meaningful insights that **drive decisions and action**.  
+I am a **Data Scientist** with a passion for turning raw data into meaningful insights that **drive decisions and action**.  
 My expertise spans **data modeling**, **forecasting**, and **data visualization** using tools like **Power BI**, **SQL**, **Excel**, and **Python (Pandas, Matplotlib, Machine Learning)**.
 
 I love transforming complex datasets into clear narratives that not only make sense but **make impact**.
