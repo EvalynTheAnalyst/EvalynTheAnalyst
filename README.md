@@ -15,10 +15,7 @@
 
 ## About Me
 
-I am a **Data Scientist** with a passion for turning raw data into meaningful insights that **drive decisions and action**.  
-My expertise spans **data modeling**, **forecasting**, and **data visualization** using tools like **Power BI**, **SQL**, **Excel**, and **Python (Pandas, Matplotlib, Machine Learning)**.
-
-I love transforming complex datasets into clear narratives that not only make sense but **make impact**.
+I build models and dashboards that turn scattered, messy data into decisions people actually act on, most recently an end-to-end system that predicts stockout risk for small retailers using SQL, Python, and XGBoost, from raw data through to a live prediction API. My tools of choice are Power BI, SQL, Excel, and Python (Pandas, Scikit-learn), and I use them to answer specific questions, not to produce reports nobody reads. Give me a dataset nobody's had time to make sense of, and I'll hand you back something you can act on the same day.
 
 ---
 
